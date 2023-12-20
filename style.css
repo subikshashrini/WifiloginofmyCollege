@@ -1,0 +1,47 @@
+*{ /* default ah ellathukum idhu kudukurathu good*/
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+.txt1{
+    color: red;
+    
+}
+.txt2{
+    color: green;
+}
+.parent
+{
+    background-color: whitesmoke;
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    height:100vh;
+}
+.parent2{
+    margin-top:  150px; 
+    margin-bottom: 100px; /*margin koduthuruken top la matum*/
+    align-content: center;
+    justify-content: center;
+}
+
+table{
+    display: inline;
+}
+.box1{
+    text-align: center;
+    height: 90px;
+    background-color: blue;
+    color: white;
+    padding: 20px;
+}
+.box2{
+    background-color: white;
+    padding: 10px;
+    height: 250px; /*white box ku height koduthuruken*/
+    text-align: center;
+    align-content: center;
+}
+
